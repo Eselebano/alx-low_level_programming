@@ -1,1 +1,1 @@
-debugging files
+functions and nested loops continued
