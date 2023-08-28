@@ -1,1 +1,1 @@
-arrays and strings
+array strings
